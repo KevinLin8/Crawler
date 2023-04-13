@@ -1,0 +1,7 @@
+{
+  "description": "nodejs之爬虫技术:https://www.bilibili.com/video/BV127411k7yC/?p=2&spm_id_from=pageDriver&vd_source=1a58d36746bfccc04e917c64025b8fd7",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "selenium-webdriver": "^4.8.2"
+  }
+}
